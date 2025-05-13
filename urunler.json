@@ -1,0 +1,5 @@
+[
+    { "id":1, "isim":"Laptop","fiyat":54.000},
+    {"id":2, "isim":"Mouse","fiyat":32.000},
+    {"id":3,"isim":"Klavye","fiyat":5.000}
+]
